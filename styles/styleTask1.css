@@ -1,0 +1,15 @@
+div{
+  border-width:3px ;
+  border-style:solid;
+  border-color: #25d9ad;
+  background:url("../images/logo.png") no-repeat;
+  background-position: bottom;
+  height:250px;
+  width: 400px;
+  margin: auto;
+  text-align: center;
+  color: grey;
+}
+.en::before{
+   content: "GoIteens"
+}
